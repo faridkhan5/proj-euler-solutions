@@ -1,3 +1,6 @@
+#sum of all the primes below two million
+#runtime - 1.23s
+
 def sieve_of_erathosthenes(n):
     primes=[]
     for i in range(n+1):
