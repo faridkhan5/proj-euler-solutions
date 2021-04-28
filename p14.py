@@ -1,5 +1,6 @@
 #Longest Collatz sequence
 #Which starting number, under one million, produces the longest chain?
+#runtime - 0.24s
 
 store = {1:1}
 def collatz(n):
