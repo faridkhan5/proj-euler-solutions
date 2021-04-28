@@ -1,5 +1,6 @@
 #Lattice paths
 #How many such routes are there through a 20×20 grid?
+#runtime - 0.00000002s
 from math import factorial
 
 #this method works only if gridsize is even
